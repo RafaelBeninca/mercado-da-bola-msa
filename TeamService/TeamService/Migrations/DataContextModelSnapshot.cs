@@ -17,30 +17,32 @@ namespace TeamService.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "10.0.13");
 
-            modelBuilder.Entity("TeamService.Servicos.Time", b =>
+            modelBuilder.Entity("TeamService.Servicos.Clube", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Cidade")
-                        .IsRequired()
+                    b.Property<DateTime>("DataFundacao")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("DataFundacao")
+                    b.Property<string>("Nacionalidade")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Pais")
-                        .IsRequired()
+                    b.Property<int>("Status")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("UrlLogo")
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Times");
+                    b.ToTable("Clubes");
                 });
 #pragma warning restore 612, 618
         }

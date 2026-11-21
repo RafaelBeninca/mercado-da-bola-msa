@@ -9,14 +9,13 @@ namespace TeamService
         {
         }
 
-        public DbSet<Time> Times { get; set; }
+        public DbSet<Clube> Clubes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Time>().HasKey(t => t.Id);
-            modelBuilder.Entity<Time>().Property(t => t.Nome).IsRequired();
-            modelBuilder.Entity<Time>().Property(t => t.Cidade).IsRequired();
-            modelBuilder.Entity<Time>().Property(t => t.Pais).IsRequired();
+            modelBuilder.Entity<Clube>().HasKey(c => c.Id);
+            modelBuilder.Entity<Clube>().Property(c => c.Nome).IsRequired();
+            modelBuilder.Entity<Clube>().Property(c => c.Nacionalidade).IsRequired();
 
             base.OnModelCreating(modelBuilder);
         }
