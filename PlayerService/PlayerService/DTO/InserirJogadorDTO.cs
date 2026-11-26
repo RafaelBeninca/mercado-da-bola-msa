@@ -17,7 +17,5 @@ namespace PlayerService.DTO
         public short Altura { get; set; }
 
         public string Nacionalidade { get; set; } = string.Empty;
-
-        public EnumStatusJogador Status { get; set; }
     }
 }

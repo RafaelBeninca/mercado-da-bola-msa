@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\",
+  "WorkspaceRootPath": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\servicos\\servjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\servicos\\servjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\servicos\\servjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\servicos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\servicos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\dto\\alterarjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\dto\\alterarjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\dto\\alterarjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\playerservice\\playerservice\\dto\\inserirjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\dto\\inserirjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\dto\\inserirjogadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\controllers\\jogadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\playerservice\\playerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948CA658-09E5-D688-8C1A-3B14639EC8D9}|PlayerService\\PlayerService.csproj|solutionrelative:playerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DataContext.cs",
-              "RelativeDocumentMoniker": "PlayerService\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DataContext.cs",
-              "RelativeToolTip": "PlayerService\\DataContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ServJogador.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\ServJogador.cs",
+              "RelativeDocumentMoniker": "PlayerService\\Servicos\\ServJogador.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\ServJogador.cs",
+              "RelativeToolTip": "PlayerService\\Servicos\\ServJogador.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswBAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T22:38:55.451Z",
+              "WhenOpened": "2026-11-17T13:49:14.224Z",
+              "IsPinned": true,
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
@@ -54,69 +55,74 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JogadorController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Controllers\\JogadorController.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Controllers\\JogadorController.cs",
               "RelativeDocumentMoniker": "PlayerService\\Controllers\\JogadorController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Controllers\\JogadorController.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Controllers\\JogadorController.cs",
               "RelativeToolTip": "PlayerService\\Controllers\\JogadorController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowDoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-17T13:50:36.388Z",
+              "IsPinned": true,
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InserirJogadorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\InserirJogadorDTO.cs",
-              "RelativeDocumentMoniker": "PlayerService\\DTO\\InserirJogadorDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\InserirJogadorDTO.cs",
-              "RelativeToolTip": "PlayerService\\DTO\\InserirJogadorDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T13:50:23.631Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AlterarJogadorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\AlterarJogadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\AlterarJogadorDTO.cs",
               "RelativeDocumentMoniker": "PlayerService\\DTO\\AlterarJogadorDTO.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\AlterarJogadorDTO.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\AlterarJogadorDTO.cs",
               "RelativeToolTip": "PlayerService\\DTO\\AlterarJogadorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T13:49:55.045Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServJogador.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\ServJogador.cs",
-              "RelativeDocumentMoniker": "PlayerService\\Servicos\\ServJogador.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\ServJogador.cs",
-              "RelativeToolTip": "PlayerService\\Servicos\\ServJogador.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T13:49:14.224Z",
+              "WhenOpened": "2026-11-25T18:39:52.999Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Jogador.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\Jogador.cs",
-              "RelativeDocumentMoniker": "PlayerService\\Servicos\\Jogador.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Servicos\\Jogador.cs",
-              "RelativeToolTip": "PlayerService\\Servicos\\Jogador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "InserirJogadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\InserirJogadorDTO.cs",
+              "RelativeDocumentMoniker": "PlayerService\\DTO\\InserirJogadorDTO.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DTO\\InserirJogadorDTO.cs",
+              "RelativeToolTip": "PlayerService\\DTO\\InserirJogadorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-17T13:38:30.976Z",
+              "WhenOpened": "2026-11-25T17:42:04.499Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Program.cs",
+              "RelativeDocumentMoniker": "PlayerService\\Program.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\Program.cs",
+              "RelativeToolTip": "PlayerService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T18:18:58.411Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DataContext.cs",
+              "RelativeDocumentMoniker": "PlayerService\\DataContext.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\PlayerService\\PlayerService\\DataContext.cs",
+              "RelativeToolTip": "PlayerService\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T22:38:55.451Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             }

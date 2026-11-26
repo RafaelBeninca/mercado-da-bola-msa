@@ -14,14 +14,27 @@ namespace PlayerService.Servicos
             _dataContext = dataContext;
         }
 
-        public void InserirJogador(Jogador novoJogador)
+        public Jogador InserirJogador(InserirJogadorDTO jogador)
         {
-            ValidarJogador(novoJogador);
+            var novoJogador = new Jogador
+            {
+                Nome = jogador.Nome,
+                Sobrenome = jogador.Sobrenome,
+                DataNascimento = jogador.DataNascimento,
+                PeDominante = jogador.PeDominante,
+                Posicao = jogador.Posicao,
+                Altura = jogador.Altura,
+                Nacionalidade = jogador.Nacionalidade,
+                Id = Guid.NewGuid(),
+                Status = EnumStatusJogador.SemClube
+            };
 
-            novoJogador.Id = Guid.NewGuid();
+            ValidarJogador(novoJogador);
 
             _dataContext.Add(novoJogador);
             _dataContext.SaveChanges();
+
+            return novoJogador;
         }
 
         public void ValidarJogador(Jogador jogador)
