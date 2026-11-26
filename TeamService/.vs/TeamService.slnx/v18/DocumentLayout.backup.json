@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\",
+  "WorkspaceRootPath": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\teamservice\\teamservice\\servicos\\servclube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\servicos\\servclube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\teamservice\\teamservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\teamservice\\teamservice\\servicos\\clube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\teamservice\\teamservice\\servicos\\clube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\servicos\\clube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\teamservice\\teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\teamservice\\teamservice\\servicos\\servclube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\servicos\\servclube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\teamservice\\teamservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\teamservice\\teamservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\usuario\\documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\teamservice\\teamservice\\teamservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|c:\\users\\saman\\desktop\\code\\mercado-da-bola-msa\\teamservice\\teamservice\\teamservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1F0C4274-AB68-9993-0694-7932936B3A05}|TeamService\\TeamService.csproj|solutionrelative:teamservice\\teamservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -30,19 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\appsettings.json",
-              "RelativeDocumentMoniker": "TeamService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\appsettings.json",
-              "RelativeToolTip": "TeamService\\appsettings.json",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeamService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TeamService\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-18T23:10:11.076Z",
+              "WhenOpened": "2026-11-25T16:55:46.36Z",
               "EditorCaption": "",
               "OwnerCaption": "%2"
             },
@@ -50,56 +54,52 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\DataContext.cs",
               "RelativeDocumentMoniker": "TeamService\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\DataContext.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\DataContext.cs",
               "RelativeToolTip": "TeamService\\DataContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T22:38:37.046Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Clube.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\Clube.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\Clube.cs",
               "RelativeDocumentMoniker": "TeamService\\Servicos\\Clube.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\Clube.cs",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\Clube.cs",
               "RelativeToolTip": "TeamService\\Servicos\\Clube.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T22:31:26.955Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ServClube.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\ServClube.cs",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\ServClube.cs",
               "RelativeDocumentMoniker": "TeamService\\Servicos\\ServClube.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\ServClube.cs*",
-              "RelativeToolTip": "TeamService\\Servicos\\ServClube.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\Servicos\\ServClube.cs",
+              "RelativeToolTip": "TeamService\\Servicos\\ServClube.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T22:31:58.941Z",
-              "EditorCaption": "",
               "OwnerCaption": "%2"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TeamService",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\TeamService.csproj",
+              "DocumentMoniker": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\TeamService.csproj",
               "RelativeDocumentMoniker": "TeamService\\TeamService.csproj",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\facul\\arquitetura-software\\mercado-da-bola-msa\\TeamService\\TeamService\\TeamService.csproj",
+              "ToolTip": "C:\\Users\\saman\\Desktop\\code\\mercado-da-bola-msa\\TeamService\\TeamService\\TeamService.csproj",
               "RelativeToolTip": "TeamService\\TeamService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-18T22:30:50.765Z",
-              "EditorCaption": "",
               "OwnerCaption": "TeamService"
             }
           ]

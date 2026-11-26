@@ -46,20 +46,7 @@ namespace PlayerService.Controllers
         {
             try
             {
-                var novoJogador = new Jogador
-                {
-                    Nome = inserirDto.Nome,
-                    Sobrenome = inserirDto.Sobrenome,
-                    DataNascimento = inserirDto.DataNascimento,
-                    PeDominante = inserirDto.PeDominante,
-                    Posicao = inserirDto.Posicao,
-                    Altura = inserirDto.Altura,
-                    Nacionalidade = inserirDto.Nacionalidade,
-                    Status = inserirDto.Status
-                };
-                _servJogador.InserirJogador(novoJogador);
-
-                return Ok(novoJogador);
+                return Ok(_servJogador.InserirJogador(inserirDto));
             }
             catch (Exception e)
             {
